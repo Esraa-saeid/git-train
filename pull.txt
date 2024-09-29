@@ -1,1 +1,4 @@
-pull new file from ripo
+pull new file from ripo 
+commit file to local
+push it to repo
+
